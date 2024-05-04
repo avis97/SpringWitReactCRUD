@@ -32,7 +32,7 @@ function EditUser() {
     <div className="container">
       <div className="row">
         <div className="col-md-6 offset-md-3 border rounded p-4 mt-2 shadow">
-          <h2 className="text-center m-4">Register User</h2>
+          <h2 className="text-center m-4">Edit User</h2>
           <form onSubmit={onSubmitFrom}>
             <div className="mb-3 text-center">
               <label htmlFor="firstName" className="form-label">
