@@ -54,5 +54,4 @@ function ViewUser() {
     </div>
   );
 }
-
 export default ViewUser;
