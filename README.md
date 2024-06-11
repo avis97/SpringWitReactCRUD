@@ -1,12 +1,12 @@
 ## FullStack Application Using SpringBoot And React(User Management)
 
 # Backend
-* Craete Backend Maven Project By Help Of SpringBoot,Rest Apis and Mysql Database.
+* Created Backend Maven Project By Help Of SpringBoot,Rest Apis and Mysql Database.
 * Made Some Rest Apis For Post,Delete,Update and get Operation.
 * Connect With Mysql Database By Orm Tolls like Hibernate.
 
 # Maven Dependency
-* Sppring Web.
+* Spring Web.
 * Lombok.
 * Mysql Driver.
 * Spring Jpa/Hobernate.
